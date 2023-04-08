@@ -1,0 +1,57 @@
+{
+      "church_info": {
+        "name": "hosanna-house-of-grace",
+        "address": {
+          "street": "Muyenga Bukasa",
+          "city": "Kampala",
+          "state": "East Africa",
+          "zip": "12345"
+        },
+        "denomination": "Baptist",
+        "size": 1000
+      },
+      "services": [
+        {
+          "day": "Sunday",
+          "time": "9:00 AM",
+          "type": "Worship Service"
+        },
+        {
+          "day": "Sunday",
+          "time": "4:30 AM",
+          "type": "Evening Service"
+        },
+        {
+          "day": "Wednesday",
+          "time": "7:00 PM",
+          "type": "Bible Study"
+        }
+      ],
+      "staff": [
+        {
+          "name": "Rev. John Doe",
+          "position": "Pastor",
+          "email": "alexladwong@gmail.com"
+        },
+        {
+          "name": "Sarah Lajirih",
+          "position": "Music Director",
+          "email": "janesmith@firstbaptist.com"
+        }
+      ],
+      "events": 
+        {
+          "name": "Easter Egg Hunt",
+          "date": "2023-04-20",
+          "time": "10:00 AM",
+          "location": "Park behind the church"
+        },
+        
+          "name": "Vacation Bible School",
+          "date": "2023-06-15",
+          "time": "9:00 AM",
+          "location": "Hosanna House of Grace Bukasa",
+        
+      
+ }
+   
